@@ -1,7 +1,7 @@
 # DroidScript-JS-Plugin-Generator
 A JavaScript Plugin generator for DroidScript
 
-Just copy the JSPluginGen folder to the DroidScript projects folder (/sdcard/DroidScript/) and (re)start DroidScript, or install the spk available here: https://dspk.justplayer.de/browse/view/67
+Just copy the JSPluginGen folder to the DroidScript projects folder (/sdcard/DroidScript/) and (re)start DroidScript, or install the spk available here: https://droidstore.org/projects/js-plugin-generator-nUwqeF7B
 
 This template provides an instant plugin installer, deinstaller and exporter, as well as a quick plugin test area.
 
